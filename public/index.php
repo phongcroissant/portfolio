@@ -12,6 +12,10 @@
 </head>
 <?php require_once "./pages/header.php"?>
 <body>
-    <h1 class="text-center">Yokoso watashi wa no Portfolio</h1>
+<div class="div text-center mt-5">
+    <img src="./assets/img/NGUYEN_Phong.jpg" alt="">
+    Bienvenue sur mon Portfolio !
+    Je suis Phong NGUYEN
+</div>
 </body>
 </html>
